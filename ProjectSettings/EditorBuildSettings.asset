@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 2a6ac26b85b53c94d8c8ed13abd55d88
+  - enabled: 1
+    path: Assets/Level01.unity
+    guid: 17cd74bb1f23f364abc40b9d6948db2b
+  - enabled: 1
+    path: Assets/HitObject.unity
+    guid: 240ad2b5a4ef4df43be62bb01b5e8f1f
+  - enabled: 1
+    path: Assets/Level02.unity
+    guid: ebf86340cd4d3ec47be758455416036a
+  - enabled: 1
+    path: Assets/HitObject 1.unity
+    guid: d817ca288b6394a449e3685f203aa8e4
+  - enabled: 1
+    path: Assets/Level03.unity
+    guid: 835f2d8e3ed5b72479ae6957f5cd6ce3
+  - enabled: 1
+    path: Assets/HitObject 2.unity
+    guid: 24030eef37d7318438ad4bf5d9c8682c
+  - enabled: 1
+    path: Assets/Level04.unity
+    guid: ad3d6e17ea2b22149b279dd4b375258f
+  - enabled: 1
+    path: Assets/HitObject 3.unity
+    guid: c83ec5f8206baef4f91696da2030be90
+  - enabled: 1
+    path: Assets/Level05.unity
+    guid: cbf12d2f7006fea4fa88d7afab313376
+  - enabled: 1
+    path: Assets/HitObject 4.unity
+    guid: cc94b2f45e0c76948a65b2adf2460800
+  - enabled: 1
+    path: Assets/Level06.unity
+    guid: 6f19d4a517b8371488f0475f3550db73
+  - enabled: 1
+    path: Assets/HitObject 5.unity
+    guid: d8a7d355addff9d4a97bfe73c2046b01
+  - enabled: 1
+    path: Assets/Level07.unity
+    guid: 8e44631cb59f58f429c088867a79d15e
+  - enabled: 1
+    path: Assets/HitObject 6.unity
+    guid: de354043ce9a09a44890b86d8536bb09
+  - enabled: 1
+    path: Assets/Level08.unity
+    guid: 664bb60940efd9b4fb16633eb5c7dbf2
+  - enabled: 1
+    path: Assets/HitObject 7.unity
+    guid: 1fd45292522512244bc6519fbb1f1a7c
+  - enabled: 1
+    path: Assets/Level09.unity
+    guid: 003189036c720f54bb6a7e98e780cce8
+  - enabled: 1
+    path: Assets/HitObject 8.unity
+    guid: e646f24ae5764c04fa2a9eb3a194672c
+  - enabled: 1
+    path: Assets/Level10.unity
+    guid: f60cd67eebb2acf4db0a429d12a067b8
+  - enabled: 1
+    path: Assets/HitObject 9.unity
+    guid: 4e970174b6a60744ebd5d56ef2ee5340
+  - enabled: 1
+    path: Assets/SelectLevel.unity
+    guid: 006e0ef8380865c45beaee5031e9d298
+  - enabled: 1
+    path: Assets/SelectLevel1.unity
+    guid: 77e875caa3275d04e9df582d8fcd74e1
+  - enabled: 1
+    path: Assets/Tutorial.unity
+    guid: 0f02e00c542a4ab489a457e45fe76953
+  - enabled: 1
+    path: Assets/LevelNotFinished.unity
+    guid: 6986b730b433db34ab981ba5d04824ca
+  - enabled: 1
+    path: Assets/LevelNotUnlocked.unity
+    guid: 6a6f167baba214f45a08a5e1e9cba328
+  - enabled: 1
+    path: Assets/AllObstacles.unity
+    guid: ba35823001773da41826eef464df32ad
+  - enabled: 1
+    path: Assets/CreditsButton.unity
+    guid: 25957811d1e3a204fa632c972b42dfd8
+  - enabled: 1
+    path: Assets/CreditsScene.unity
+    guid: ea1996b0d77b3d64fba8461abb7b3912
+  m_configObjects: {}
