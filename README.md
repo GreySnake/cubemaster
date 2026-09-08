@@ -1,8 +1,8 @@
 # (EN) 🧊 CubeMaster - 3D Level-Based Obstacle Avoider
 
-> 🚀 **Team Project** (2021) created to learn and deepen understanding of game development and C# architecture.
+> 🚀 **Team Project** (2021) created to learn and deepen understanding of game development and C# language.
 
-**CubeMaster** is a 3D obstacle avoider game developed in Unity and C#. The project features a series of pre-defined levels, each offering new geometry and timing challenges for the player.
+**Cubemaster** is a 3D obstacle avoider game developed in Unity and C#. The project features a series of pre-defined levels, each offering new geometry and timing challenges for the player.
 
 ---
 
@@ -31,16 +31,16 @@
 
 # (RO)🧊 CubeMaster - 3D Level-Based Obstacle Avoider
 
-> 🚀 **Proiect dezvoltat în echipă** (2021) ca proiect de învățare și aprofundare a dezvoltării de jocuri și arhitecturii C#.
+> 🚀 **Proiect dezvoltat în echipă** (2021) ca proiect de învățare și aprofundare a dezvoltării de jocuri și a limbajului C#.
 > 
-**CubeMaster** este un joc 3D de tip obstacle avoider dezvoltat în Unity și C#. Proiectul prezintă o serie de niveluri pre-definite, fiecare venind cu provocări noi de geometrie și sincronizare pentru jucător.
+**Cubemaster** este un joc 3D de tip obstacle avoider dezvoltat în Unity și C#. Proiectul prezintă o serie de niveluri pre-definite, fiecare venind cu provocări noi de geometrie și sincronizare pentru jucător.
 ---
 
 ## ✨ Caracteristici Principale
 
 * **Sistem de Niveluri Progresive:** Fiecare nivel conţine obiecte si obstacole noi.
-* **Control & Fizică 3D:** Mișcare fluidă bazată pe componentele de fizică din Unity (`Rigidbody`, `Colliders`).
-* **Level & Game State Management:** Gestionarea stărilor jocului (Meniu, Gameplay, Victory Screen).
+* **Control şi Fizică 3D:** Mișcare fluidă bazată pe componentele de fizică din Unity (`Rigidbody`, `Colliders`).
+* **Level şi Game State Management:** Gestionarea stărilor jocului (Meniu, Gameplay, Victory Screen).
 * **Compatibilitate Mobile Android (funcţionează parţial):** Jocul include build-uri optimizate pentru rulare pe dispozitive Android.
 
 ---
