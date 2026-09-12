@@ -1,6 +1,6 @@
 # (EN) 🧊 CubeMaster - 3D Level-Based Obstacle Avoider
 
-> 🚀 **Team Project** (2021) created to learn and deepen understanding of game development and C# language.
+> 🚀 **Team Project** created to learn and deepen understanding of game development and C# language.
 
 **Cubemaster** is a 3D obstacle avoider game developed in Unity and C#. The project features a series of pre-defined levels, each offering new geometry and timing challenges for the player.
 
@@ -31,7 +31,7 @@
 
 # (RO)🧊 CubeMaster - 3D Level-Based Obstacle Avoider
 
-> 🚀 **Proiect dezvoltat în echipă** (2021) ca proiect de învățare și aprofundare a dezvoltării de jocuri și a limbajului C#.
+> 🚀 **Proiect dezvoltat în echipă** ca proiect de învățare și aprofundare a dezvoltării de jocuri și a limbajului C#.
 > 
 **Cubemaster** este un joc 3D de tip obstacle avoider dezvoltat în Unity și C#. Proiectul prezintă o serie de niveluri pre-definite, fiecare venind cu provocări noi de geometrie și sincronizare pentru jucător.
 ---
